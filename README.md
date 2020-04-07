@@ -3,13 +3,13 @@
 ## Vectors
 
   #### General
-  www.vectorstock.com
+  www.vectorstock.com - Decent amount of free vectors
   
   #### 3D
-  www.freepik.com
+  www.freepik.com - Wonderful UI & loads of free vectors
   
   #### Icons
-  www.flaticon.com
+  www.flaticon.com - Similar UI to freepik
   
   #### Blobs
   www.blobmaker.app
