@@ -9,7 +9,8 @@
   www.freepik.com - Wonderful UI & loads of free vectors
   
   #### Icons
-  www.flaticon.com - Similar UI to freepik
+  www.flaticon.com - Subset of Freepik & has more options
+  www.freepik.com - Lesser options, but nice icons
   
   #### Blobs
   www.blobmaker.app
