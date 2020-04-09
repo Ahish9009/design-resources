@@ -52,13 +52,13 @@
 ###### Anything & Everything
 
 [**Dribble**](https://dribbble.com/)   
-`Amazing for everything, specially _Typography_, _Branding_ and _Illustrations_`   
+`Amazing for everything, especially typography, branding and illustrations`   
 `Web Designs are very stock vector based`
 
 [**Pinterest**](https://www.pinterest.com)
 
 [**Behance**](https://www.behance.net)    
-`Linked directly with Adobe CC`
+`Links directly with Adobe CC`
 ##
 ###### Typography
 [**Fonts in Use**](https://fontsinuse.com)   
