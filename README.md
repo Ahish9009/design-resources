@@ -8,21 +8,22 @@
 
 [**Vecteezy**](https://www.vecteezy.com)  
 `Non-bright vectors, pleasing to the eyes` 
-  
+##  
 ###### 3D
 [**Freepik**](https://www.freepik.com)   
 `Wonderful UI & loads of free vectors`
-  
+##  
 ###### Icons   
 [**Flaticon**](https://www.flaticon.com)  
 `Subset of Freepik & has more options`  
 
 [**Freepik**](https://www.freepik.com)   
 `Lesser options, but nice icons`
-  
+##  
 ###### Blobs
 [**Blobmaker**](https://www.blobmaker.app)  
 `Don't like blobs, but this is nice`
+##
 
 ## Illustrations
 ###### General
@@ -40,12 +41,12 @@
 
 [**StockSnap**](https://stocksnap.io)    
 `Beautiful, but very limited options`
-
+##
 ###### Rarely Used
 [**Pixabay**](https://pixabay.com/)   
 
 [**Shopify**](https://burst.shopify.com)   
-
+##
 ## Ideas
 
 ###### Anything & Everything
@@ -58,25 +59,25 @@
 
 [**Behance**](https://www.behance.net)    
 `Linked directly with Adobe CC`
-
+##
 ###### Typography
 [**Fonts in Use**](https://fontsinuse.com)   
 `Fonts available to download, with examples of use`
-
+##
 ###### Illustrations
 [**Eat Sleep Draw**](https://eatsleepdraw.com)     
 `Amazing Illustrations & Cartoons`
-
+##
 ###### Website Design
 [**The Best Designs**](https://www.thebestdesigns.com/designs/)
-
+##
 ###### Book Cover Designs  
 [**Book Cover Archive**](http://bookcoverarchive.com)
-
+##
 ###### Posters
 [**Power to the Poster**](https://powertotheposter.com)   
 `Posters on current world(mostly US) issues`
-
+##
 ## Photoshop
 ###### Effects 
 [**PiXimperfect**](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)  
@@ -87,7 +88,7 @@
 
 [**Blue Lightning TV**](https://www.youtube.com/user/bluelightningtv)   
 `First place I learnt PS from, still active even now`
-
+##
 ## Photography
 [**COOPH**](https://www.youtube.com/user/TheCooph)    
 `Very detailed and easy to understand`
@@ -96,13 +97,13 @@
 
 [**Adorama**](https://www.youtube.com/user/adoramaTV)      
 `Quick, short tips`
-
+##
 ## Other
 ###### Freebies
 [**Design Taxi**](https://designtaxi.com/category/Freebies)     
 `Freebies from different companies, has good Adobe tips too`
-
+##
 ## Don't Use Unless Dying in 5 Mins
 [**Canva**](https://www.canva.com)   
 `This isn't design`
-  
+##  
