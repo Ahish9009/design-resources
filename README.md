@@ -106,6 +106,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**Blue Lightning TV**](https://www.youtube.com/user/bluelightningtv)   
 `First place I learnt PS from, still active even now`
+#
 
 ## Photography
 [**COOPH**](https://www.youtube.com/user/TheCooph)    
