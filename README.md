@@ -31,6 +31,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 ###### Blobs
 [**Blobmaker**](https://www.blobmaker.app)  
 `Don't like blobs, but this is nice`
+#
 
 ## Typography
 [**Fonts in Use**](https://fontsinuse.com)   
@@ -41,6 +42,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**Type Everything**](http://typeverything.com)    
 `Amazing fonts, allows testing too, mostly paid fonts though`
+#
 
 ## Stock Photos
 ###### General
@@ -58,6 +60,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 [**Pixabay**](https://pixabay.com/)   
 
 [**Shopify**](https://burst.shopify.com)   
+#
 
 ## Ideas
 ###### Anything & Everything
@@ -91,6 +94,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 ###### Posters
 [**Power to the Poster**](https://powertotheposter.com)   
 `Posters on current world(mostly US) issues`
+#
 
 ## Photoshop
 ###### Effects 
@@ -112,6 +116,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**Jordan Matter**](https://www.youtube.com/user/jordanmatter)   
 `Cool shots on the go`
+#
 
 ## Other
 ###### Freebies
@@ -121,4 +126,4 @@ Resources I like to use while designing, feel free to suggest other resources.
 ## Don't Use Unless Dying in 5 Mins
 [**Canva**](https://www.canva.com)   
 `This isn't design`
-##  
+#
