@@ -8,17 +8,17 @@ Decent amount of free vectors
   
 ### 3D
 * **Freepik** 
-Wonderful UI & loads of free vectors
+  - Wonderful UI & loads of free vectors
   
 ### Icons
 * **Flaticon** 
-Subset of Freepik & has more options 
+  - Subset of Freepik & has more options 
 * **Freepik** 
-Lesser options, but nice icons
+  - Lesser options, but nice icons
   
 ### Blobs
 * **Blobmaker.app** 
-Don't like blobs, but this is nice
+  - Don't like blobs, but this is nice
 
 ## PS
 
@@ -29,7 +29,7 @@ Don't like blobs, but this is nice
 
 
 ## Photography
-  * COOPH
-  * Jordan Matter
-  * Adorama
+* **COOPH**
+* **Jordan Matter**
+* **Adorama**
   
