@@ -62,6 +62,10 @@ Linked directly with Adobe CC
 [**Fonts in Use**](https://fontsinuse.com)
 Fonts available to download, with examples of use
 
+###### Illustrations
+[**Eat Sleep Draw**](https://eatsleepdraw.com)   
+Amazing Illustrations & Cartoons
+
 ###### Website Design
 [**The Best Designs**](https://www.thebestdesigns.com/designs/)
 
