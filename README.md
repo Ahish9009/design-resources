@@ -3,23 +3,23 @@
 ## Vectors
 
 ###### General
-**Vectorstock** 
-###### Decent amount of free vectors
+**Vectorstock**   
+Decent amount of free vectors
   
 ###### 3D
-**Freepik** 
-###### Wonderful UI & loads of free vectors
+**Freepik**   
+Wonderful UI & loads of free vectors
   
 ###### Icons   
 **Flaticon**  
-###### Subset of Freepik & has more options   
+Subset of Freepik & has more options   
 
 **Freepik**   
-###### Lesser options, but nice icons
+Lesser options, but nice icons
   
 ###### Blobs
-**Blobmaker.app** 
-###### Don't like blobs, but this is nice
+**Blobmaker.app**  
+Don't like blobs, but this is nice
 
 ## PS
 
