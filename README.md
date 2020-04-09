@@ -2,7 +2,7 @@
 
 ## Vectors
 
-###### General
+###### **General**
 [**Vectorstock**](https://www.vectorstock.com)   
 `Decent amount of free vectors`
 
