@@ -8,6 +8,8 @@ Decent amount of free vectors
 
 [**Vecteezy**](https://www.vecteezy.com)  
 Non-bright vectors, pleasing to the eyes
+
+
   
 ###### 3D
 [**Freepik**](https://www.freepik.com)   
@@ -24,14 +26,28 @@ Lesser options, but nice icons
 [**Blobmaker**](https://www.blobmaker.app)  
 Don't like blobs, but this is nice
 
+## Illustrations
+###### General
+[**Pixabay Illustrations**](https://pixabay.com/illustrations/)    
+Not necessarily vectors, but amazing art
+
 ## Stock Photos
 
 ###### General
 [**Pexels**](https://www.pexels.com)   
-More options
+Loads of options
 
 [**Unsplash**](https://unsplash.com)    
-Richer in color
+Richer in color, and has collections
+
+[**StockSnap**](https://stocksnap.io)
+Beautiful, but very limited options
+
+[**Pixabay**](https://pixabay.com/)
+
+[**Shopify**](https://burst.shopify.com)
+
+
 
 ## PS
 
