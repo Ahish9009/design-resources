@@ -27,7 +27,7 @@ Don't like blobs, but this is nice
 ## Stock Photos
 
 ###### General
-[**Pexels**](https://www.pexels.com)
+[**Pexels**](https://www.pexels.com)   
 More options
 
 [**Unsplash**](https://unsplash.com)    
