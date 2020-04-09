@@ -24,6 +24,14 @@ Lesser options, but nice icons
 [**Blobmaker**](https://www.blobmaker.app)  
 Don't like blobs, but this is nice
 
+## Stock Photos
+
+###### General
+[**Pexels**](https://www.pexels.com)
+
+[**Unsplash**](https://unsplash.com)    
+Richer in color
+
 ## PS
 
 ###### Effects 
