@@ -1,4 +1,5 @@
 # Design Resources
+Resources I like to use while designing
 
 ## Vectors
 ###### General
@@ -70,7 +71,7 @@
 
 ###### Illustrations
 [**Eat Sleep Draw**](https://eatsleepdraw.com)     
-`Amazing Illustrations & Cartoons`
+`Amazing Illustrations & Cartoons, some are funny too`
 ##
 
 ###### Website Design
