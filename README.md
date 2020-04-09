@@ -41,6 +41,7 @@ Richer in color, and has collections
 [**StockSnap**](https://stocksnap.io)    
 Beautiful, but very limited options
 
+###### Rarely Used
 [**Pixabay**](https://pixabay.com/)   
 
 [**Shopify**](https://burst.shopify.com)   
@@ -76,24 +77,29 @@ Amazing Illustrations & Cartoons
 [Power to the Poster](https://powertotheposter.com)
 Posters on current world(mostly US) issues
 
-## PS
+## Photoshop
 ###### Effects 
-[**PiXimperfect**](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
+[**PiXimperfect**](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)  
+Very thorough, detailed and interesting
 
 [**Letsgettoit**](https://www.youtube.com/user/LetsGetToitNow/videos)
+Cool effects and detailed explanation
 
-[**Blue Lightning TV**](https://www.youtube.com/user/bluelightningtv)
+[**Blue Lightning TV**](https://www.youtube.com/user/bluelightningtv)   
+First place I learnt PS from, still active even now
 
 ## Photography
-**COOPH**
+**COOPH**   
+Very detailed and easy to understand
 
 **Jordan Matter**
 
 **Adorama**
+Quick, short tips
 
 ## Other
 ###### Freebies
-[**Design Taxi**](https://designtaxi.com/category/Freebies)
+[**Design Taxi**](https://designtaxi.com/category/Freebies)   
 Freebies from different companies, has good Adobe tips too
 
 ## Don't Use Unless Dying in 5 Mins
