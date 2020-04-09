@@ -2,14 +2,14 @@
 
 ## Vectors
 
-###### _General_
+###### General
 [**Vectorstock**](https://www.vectorstock.com)   
 `Decent amount of free vectors`
 
 [**Vecteezy**](https://www.vecteezy.com)  
 `Non-bright vectors, pleasing to the eyes` 
   
-###### _3D_
+###### 3D
 [**Freepik**](https://www.freepik.com)   
 `Wonderful UI & loads of free vectors`
   
