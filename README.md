@@ -24,11 +24,11 @@ Don't like blobs, but this is nice
 ## PS
 
 ###### Effects 
-**PiXimperfect**
+[**PiXimperfect**](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
 
-**Letsgettoit**
+[**Letsgettoit**](https://www.youtube.com/user/LetsGetToitNow/videos)
 
-**Blue Lightning TV**
+[**Blue Lightning TV**](https://www.youtube.com/user/bluelightningtv)
 
 
 ## Photography
