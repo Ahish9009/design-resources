@@ -3,15 +3,24 @@
 ## Vectors
 
   #### General
-  www.vectorstock.com - Decent amount of free vectors
+  Vectorstock - Decent amount of free vectors
   
   #### 3D
-  www.freepik.com - Wonderful UI & loads of free vectors
+  Freepik - Wonderful UI & loads of free vectors
   
   #### Icons
-  www.flaticon.com - Subset of Freepik & has more options
-  www.freepik.com - Lesser options, but nice icons
+  Flaticon - Subset of Freepik & has more options
+  Freepik - Lesser options, but nice icons
   
   #### Blobs
-  www.blobmaker.app
+  Blobmaker.app - Don't like blobs, but this is nice
+
+## PS
+  Blue Lightning TV
+
+
+## Photography
+  COOPH
+  Jordan Matter
+  Adorama
   
