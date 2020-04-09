@@ -4,7 +4,8 @@
 
 ###### General
 [**Vectorstock**](https://www.vectorstock.com)   
-Decent amount of free vectors   
+Decent amount of free vectors 
+
 [**Vecteezy**](https://www.vecteezy.com)  
 Non-bright vectors, pleasing to the eyes
   
@@ -15,6 +16,7 @@ Wonderful UI & loads of free vectors
 ###### Icons   
 [**Flaticon**](https://www.flaticon.com)  
 Subset of Freepik & has more options   
+
 [**Freepik**](https://www.freepik.com)   
 Lesser options, but nice icons
   
