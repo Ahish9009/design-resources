@@ -10,6 +10,11 @@ Resources I like to use while designing
 `Non-bright vectors, pleasing to the eyes` 
 ##  
 
+###### Illustrations
+[**Pixabay Illustrations**](https://pixabay.com/illustrations/)    
+`Not necessarily vectors, but amazing art`
+##
+
 ###### 3D
 [**Freepik**](https://www.freepik.com)   
 `Wonderful UI & loads of free vectors`
@@ -28,10 +33,10 @@ Resources I like to use while designing
 `Don't like blobs, but this is nice`
 ##
 
-## Illustrations
-###### General
-[**Pixabay Illustrations**](https://pixabay.com/illustrations/)    
-`Not necessarily vectors, but amazing art`
+## Typography
+[**Fonts in Use**](https://fontsinuse.com)   
+`Fonts available to download, with examples of use`
+##
 
 ## Stock Photos
 ###### General
@@ -62,11 +67,6 @@ Resources I like to use while designing
 
 [**Behance**](https://www.behance.net)    
 `Links directly with Adobe CC`
-##
-
-###### Typography
-[**Fonts in Use**](https://fontsinuse.com)   
-`Fonts available to download, with examples of use`
 ##
 
 ###### Illustrations
