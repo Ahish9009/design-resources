@@ -1,5 +1,5 @@
 # Design Resources
-Resources I like to use while designing
+Resources I like to use while designing, feel free to suggest other resources.
 
 ## Vectors
 ###### General
@@ -36,6 +36,12 @@ Resources I like to use while designing
 ## Typography
 [**Fonts in Use**](https://fontsinuse.com)   
 `Fonts available to download, with examples of use`
+
+[**Type Goodness**](http://typegoodness.com)   
+`Mostly ideas, but fonts mentioned`
+
+[**Type Everything**](http://typeverything.com)    
+`Amazing fonts, allows testing too, mostly paid fonts though`
 ##
 
 ## Stock Photos
@@ -63,7 +69,8 @@ Resources I like to use while designing
 `Amazing for everything, especially typography, branding and illustrations`   
 `Web Designs are very stock vector based`
 
-[**Pinterest**](https://www.pinterest.com)
+[**Pinterest**](https://www.pinterest.com)   
+`Amazing boards to follow`
 
 [**Behance**](https://www.behance.net)    
 `Links directly with Adobe CC`
@@ -79,7 +86,8 @@ Resources I like to use while designing
 ##
 
 ###### Book Cover Designs  
-[**Book Cover Archive**](http://bookcoverarchive.com)
+[**Book Cover Archive**](http://bookcoverarchive.com)   
+`Cool designs`
 ##
 
 ###### Posters
