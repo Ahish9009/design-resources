@@ -110,7 +110,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 ## Photography
 [**COOPH**](https://www.youtube.com/user/TheCooph)    
-`Very detailed and easy to understand`
+`Interesting ideas and easy to understand`
 
 [**Adorama**](https://www.youtube.com/user/adoramaTV)      
 `Quick, short tips`
@@ -123,6 +123,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 ###### Freebies
 [**Design Taxi**](https://designtaxi.com/category/Freebies)     
 `Freebies from different companies, has good Adobe tips too`
+# 
 
 ## Don't Use Unless Dying in 5 Mins
 [**Canva**](https://www.canva.com)   
