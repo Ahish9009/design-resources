@@ -82,7 +82,8 @@ Resources I like to use while designing, feel free to suggest other resources.
 ##
 
 ###### Website Design
-[**The Best Designs**](https://www.thebestdesigns.com/designs/)
+[**The Best Designs**](https://www.thebestdesigns.com/designs/)   
+`Interesting layouts`
 ##
 
 ###### Book Cover Designs  
@@ -115,6 +116,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 `Quick, short tips`
 
 [**Jordan Matter**](https://www.youtube.com/user/jordanmatter)   
+`Cool shots on the go`
 ##
 
 ## Other
