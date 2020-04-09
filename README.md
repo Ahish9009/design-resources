@@ -49,8 +49,9 @@ Beautiful, but very limited options
 
 ###### Anything & Everything
 
-[**Dribble**](https://dribbble.com/)
-Amazing for everything, specially _Typography_, _Branding_ and _Illustrations_   
+[**Dribble**](https://dribbble.com/)   
+Amazing for everything, specially _Typography_, _Branding_ and _Illustrations_  
+
 [**Pinterest**](https://www.pinterest.com)
 
 [**Behance**](https://www.behance.net)
