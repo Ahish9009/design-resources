@@ -16,6 +16,10 @@
   Blobmaker.app - Don't like blobs, but this is nice
 
 ## PS
+
+  #### Effects
+  PiXimperfect
+  Letsgettoit
   Blue Lightning TV
 
 
