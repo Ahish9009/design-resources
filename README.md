@@ -56,25 +56,25 @@
 
 [**Pinterest**](https://www.pinterest.com)
 
-[**Behance**](https://www.behance.net)
+[**Behance**](https://www.behance.net)    
 `Linked directly with Adobe CC`
 
 ###### Typography
-[**Fonts in Use**](https://fontsinuse.com)
+[**Fonts in Use**](https://fontsinuse.com)   
 `Fonts available to download, with examples of use`
 
 ###### Illustrations
-[**Eat Sleep Draw**](https://eatsleepdraw.com)   
+[**Eat Sleep Draw**](https://eatsleepdraw.com)     
 `Amazing Illustrations & Cartoons`
 
 ###### Website Design
 [**The Best Designs**](https://www.thebestdesigns.com/designs/)
 
-###### Book Cover Designs
-[Book Cover Archive](http://bookcoverarchive.com)
+###### Book Cover Designs  
+[**Book Cover Archive**](http://bookcoverarchive.com)
 
 ###### Posters
-[Power to the Poster](https://powertotheposter.com)
+[**Power to the Poster**](https://powertotheposter.com)   
 `Posters on current world(mostly US) issues`
 
 ## Photoshop
@@ -82,24 +82,24 @@
 [**PiXimperfect**](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)  
 `Very thorough, detailed and interesting`
 
-[**Letsgettoit**](https://www.youtube.com/user/LetsGetToitNow/videos)
+[**Letsgettoit**](https://www.youtube.com/user/LetsGetToitNow/videos)    
 `Cool effects and detailed explanation`
 
 [**Blue Lightning TV**](https://www.youtube.com/user/bluelightningtv)   
 `First place I learnt PS from, still active even now`
 
 ## Photography
-**COOPH**   
+[**COOPH**](https://www.youtube.com/user/TheCooph)    
 `Very detailed and easy to understand`
 
-**Jordan Matter**
+[**Jordan Matter**](https://www.youtube.com/user/jordanmatter)   
 
-**Adorama**
+[**Adorama**](https://www.youtube.com/user/adoramaTV)      
 `Quick, short tips`
 
 ## Other
 ###### Freebies
-[**Design Taxi**](https://designtaxi.com/category/Freebies)   
+[**Design Taxi**](https://designtaxi.com/category/Freebies)     
 `Freebies from different companies, has good Adobe tips too`
 
 ## Don't Use Unless Dying in 5 Mins
