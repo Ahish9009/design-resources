@@ -50,7 +50,8 @@ Beautiful, but very limited options
 ###### Anything & Everything
 
 [**Dribble**](https://dribbble.com/)   
-Amazing for everything, specially _Typography_, _Branding_ and _Illustrations_  
+Amazing for everything, specially _Typography_, _Branding_ and _Illustrations_   
+Web Designs are very stock vector based
 
 [**Pinterest**](https://www.pinterest.com)
 
@@ -58,23 +59,26 @@ Amazing for everything, specially _Typography_, _Branding_ and _Illustrations_
 Linked directly with Adobe CC
 
 ###### Typography
-[Fonts in Use](https://fontsinuse.com)
+[**Fonts in Use**](https://fontsinuse.com)
 Fonts available to download, with examples of use
 
-
-
 ###### Website Design
-[The Best Designs](https://www.thebestdesigns.com/designs/)
+[**The Best Designs**](https://www.thebestdesigns.com/designs/)
+
+###### Book Cover Designs
+[Book Cover Archive](http://bookcoverarchive.com)
+
+###### Posters
+[Power to the Poster](https://powertotheposter.com)
+Posters on current world(mostly US) issues
 
 ## PS
-
 ###### Effects 
 [**PiXimperfect**](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
 
 [**Letsgettoit**](https://www.youtube.com/user/LetsGetToitNow/videos)
 
 [**Blue Lightning TV**](https://www.youtube.com/user/bluelightningtv)
-
 
 ## Photography
 **COOPH**
@@ -83,6 +87,12 @@ Fonts available to download, with examples of use
 
 **Adorama**
 
-## DON'T USE UNLESS DYING IN 5 MINS
-[**Canva**](https://www.canva.com)
+## Other
+###### Freebies
+[**Design Taxi**](https://designtaxi.com/category/Freebies)
+Freebies from different companies, has good Adobe tips too
+
+## Don't Use Unless Dying in 5 Mins
+[**Canva**](https://www.canva.com)   
+This isn't design
   
