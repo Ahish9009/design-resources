@@ -7,9 +7,7 @@
 Decent amount of free vectors 
 
 [**Vecteezy**](https://www.vecteezy.com)  
-Non-bright vectors, pleasing to the eyes
-
-
+Non-bright vectors, pleasing to the eyes   
   
 ###### 3D
 [**Freepik**](https://www.freepik.com)   
@@ -40,14 +38,32 @@ Loads of options
 [**Unsplash**](https://unsplash.com)    
 Richer in color, and has collections
 
-[**StockSnap**](https://stocksnap.io)
+[**StockSnap**](https://stocksnap.io)    
 Beautiful, but very limited options
 
-[**Pixabay**](https://pixabay.com/)
+[**Pixabay**](https://pixabay.com/)   
 
-[**Shopify**](https://burst.shopify.com)
+[**Shopify**](https://burst.shopify.com)   
+
+## Ideas
+
+###### Anything & Everything
+
+[**Dribble**](https://dribbble.com/)
+Amazing for everything, specially _Typography_, _Branding_ and _Illustrations_   
+[**Pinterest**](https://www.pinterest.com)
+
+[**Behance**](https://www.behance.net)
+Linked directly with Adobe CC
+
+###### Typography
+[Fonts in Use](https://fontsinuse.com)
+Fonts available to download, with examples of use
 
 
+
+###### Website Design
+[The Best Designs](https://www.thebestdesigns.com/designs/)
 
 ## PS
 
@@ -65,4 +81,7 @@ Beautiful, but very limited options
 **Jordan Matter**
 
 **Adorama**
+
+## DON'T USE UNLESS DYING IN 5 MINS
+[**Canva**](https://www.canva.com)
   
