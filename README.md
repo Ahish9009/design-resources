@@ -123,6 +123,10 @@ Resources I like to use while designing, feel free to suggest other resources.
 ###### Freebies
 [**Design Taxi**](https://designtaxi.com/category/Freebies)     
 `Freebies from different companies, has good Adobe tips too`
+
+###### Patterns
+[**The Pattern Library**](http://thepatternlibrary.com)
+`Some of these make nice backgrounds`
 # 
 
 ## Don't Use Unless Dying in 5 Mins
