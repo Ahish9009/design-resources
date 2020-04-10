@@ -125,7 +125,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 `Freebies from different companies, has good Adobe tips too`
 
 ###### Patterns
-[**The Pattern Library**](http://thepatternlibrary.com)
+[**The Pattern Library**](http://thepatternlibrary.com)   
 `Some of these make nice backgrounds`
 # 
 
