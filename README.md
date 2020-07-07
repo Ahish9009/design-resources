@@ -28,6 +28,10 @@ Resources I like to use while designing, feel free to suggest other resources.
 `Lesser options, but nice icons`
 ## 
 
+[**Feather**](https://feathericons.com/)
+`Simple, beautiful open source collection`
+##
+
 ###### Blobs
 [**Blobmaker**](https://www.blobmaker.app)  
 `Don't like blobs, but this is nice`
@@ -84,6 +88,10 @@ Resources I like to use while designing, feel free to suggest other resources.
 ###### Website Design
 [**The Best Designs**](https://www.thebestdesigns.com/designs/)   
 `Interesting layouts`
+##
+
+[**Portfolio**](https://portfolio.adobe.com/examples)
+`Cool portfolio pages`
 ##
 
 ###### Book Cover Designs  
