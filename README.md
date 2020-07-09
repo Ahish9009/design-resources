@@ -27,7 +27,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 [**Freepik**](https://www.freepik.com)   
 `Lesser options, but nice icons`
 
-[**Feather**](https://feathericons.com/)
+[**Feather**](https://feathericons.com/)  
 `Simple, beautiful open source collection`
 ## 
 
@@ -88,7 +88,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 [**The Best Designs**](https://www.thebestdesigns.com/designs/)   
 `Interesting layouts`
 
-[**Portfolio**](https://portfolio.adobe.com/examples)
+[**Portfolio**](https://portfolio.adobe.com/examples)   
 `Cool portfolio pages`
 ##
 
