@@ -31,6 +31,11 @@ Resources I like to use while designing, feel free to suggest other resources.
 `Simple, beautiful open source collection`
 ## 
 
+###### Logos   
+[**Svg Porn**](https://www.svgporn.com)  
+`High quality SVG logos`  
+##
+
 ###### Blobs
 [**Blobmaker**](https://www.blobmaker.app)  
 `Don't like blobs, but this is nice`
@@ -45,6 +50,9 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**Type Everything**](http://typeverything.com)    
 `Amazing fonts, allows testing too, mostly paid fonts though`
+
+[**FontPair**](https://fontpair.co/)    
+`Awesome Google font combinations`
 #
 
 ## Stock Photos
@@ -82,6 +90,12 @@ Resources I like to use while designing, feel free to suggest other resources.
 ###### Illustrations
 [**Eat Sleep Draw**](https://eatsleepdraw.com)     
 `Amazing Illustrations & Cartoons, some are funny too`
+
+[**Open Peeps**](https://www.openpeeps.com)    
+`Human Illustrator generator`
+
+[**DrawKit**](https://www.drawkit.io/)    
+`Hand Drawn Illustrations`
 ##
 
 ###### Website Design
@@ -90,6 +104,9 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**Portfolio**](https://portfolio.adobe.com/examples)   
 `Cool portfolio pages`
+
+[**UI Design Daily**](https://uidesigndaily.com)
+`Daily design inspiration for UI`
 ##
 
 ###### Book Cover Designs  
@@ -97,10 +114,24 @@ Resources I like to use while designing, feel free to suggest other resources.
 `Cool designs`
 ##
 
+###### Code 
+[**Carbon**](http://carbon.now.sh)   
+`Code snippets with styling options for presentation`
+##
+
 ###### Posters
 [**Power to the Poster**](https://powertotheposter.com)   
 `Posters on current world(mostly US) issues`
 #
+
+###### Posters
+[**Power to the Poster**](https://powertotheposter.com)   
+`Posters on current world(mostly US) issues`
+#
+
+###### Color Palletes
+[**Happy Hues**](https://www.happyhues.co/)
+`Superb color palletes`
 
 ## Photoshop
 ###### Effects 
