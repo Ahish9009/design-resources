@@ -105,7 +105,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 [**Portfolio**](https://portfolio.adobe.com/examples)   
 `Cool portfolio pages`
 
-[**UI Design Daily**](https://uidesigndaily.com)
+[**UI Design Daily**](https://uidesigndaily.com) \
 `Daily design inspiration for UI`
 ##
 
