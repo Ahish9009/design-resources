@@ -122,16 +122,12 @@ Resources I like to use while designing, feel free to suggest other resources.
 ###### Posters
 [**Power to the Poster**](https://powertotheposter.com)   
 `Posters on current world(mostly US) issues`
-#
-
-###### Posters
-[**Power to the Poster**](https://powertotheposter.com)   
-`Posters on current world(mostly US) issues`
-#
+##
 
 ###### Color Palletes
 [**Happy Hues**](https://www.happyhues.co/)
 `Superb color palletes`
+##
 
 ## Photoshop
 ###### Effects 
