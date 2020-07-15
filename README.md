@@ -125,8 +125,8 @@ Resources I like to use while designing, feel free to suggest other resources.
 ##
 
 ###### Color Palletes
-[**Happy Hues**](https://www.happyhues.co/)
-`Superb color palletes`
+[**Happy Hues**](https://www.happyhues.co/) \
+`Superb color palettes`
 ##
 
 ## Photoshop
