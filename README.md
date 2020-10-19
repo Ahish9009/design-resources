@@ -29,6 +29,15 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**Feather**](https://feathericons.com/)  
 `Simple, beautiful open source collection`
+
+[**Iconmonstr**](https://iconmonstr.com/) \
+`Boldly graphic icons in a few different styles`
+
+[**The Noun Project**](https://thenounproject.com/) \
+`Search for a noun, get a free symbol or icon`
+
+[**Endless Icons**](http://endlessicons.com/) \
+`Free icon library`
 ## 
 
 ###### Logos   
@@ -53,6 +62,9 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**FontPair**](https://fontpair.co/)    
 `Awesome Google font combinations`
+
+[**Canva Font Combinations**](https://www.canva.com/font-combinations/)
+`Font pairing generator`
 #
 
 ## Stock Photos
@@ -65,6 +77,18 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**StockSnap**](https://stocksnap.io)    
 `Beautiful, but very limited options`
+
+[**Gratisography**](https://gratisography.com/)   
+`Easy to browse categories, high resolution and free`
+
+[**PicJumbo**](https://picjumbo.com/)   
+`Beautiful and free`
+
+[**Little Visuals**](https://littlevisuals.co/)   
+`Free, high resolution images`
+
+[**SplitShire**](https://www.splitshire.com/) \
+`Exclusive, free stock photos`
 ##
 
 ###### Rarely Used
@@ -105,7 +129,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 [**Portfolio**](https://portfolio.adobe.com/examples)   
 `Cool portfolio pages`
 
-[**UI Design Daily**](https://uidesigndaily.com) \
+[**UI Design Daily**](https://uidesigndaily.com)  
 `Daily design inspiration for UI`
 ##
 
@@ -125,8 +149,14 @@ Resources I like to use while designing, feel free to suggest other resources.
 ##
 
 ###### Color Palletes
-[**Happy Hues**](https://www.happyhues.co/) \
+[**Happy Hues**](https://www.happyhues.co/)  \
 `Superb color palettes`
+
+[**BrandColors**](http://brandcolors.net/)  \
+`Check out the exact colors that major brands use`
+
+[**0 to 255**](https://www.0to255.com/)  \
+`Find the perfect color variation`
 ##
 
 ## Photoshop
