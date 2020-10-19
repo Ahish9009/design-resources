@@ -63,7 +63,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 [**FontPair**](https://fontpair.co/)    
 `Awesome Google font combinations`
 
-[**Canva Font Combinations**](https://www.canva.com/font-combinations/)
+[**Canva Font Combinations**](https://www.canva.com/font-combinations/) \
 `Font pairing generator`
 #
 
