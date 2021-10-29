@@ -38,6 +38,9 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**Endless Icons**](http://endlessicons.com/) \
 `Free icon library`
+
+[**Material Icons**](https://fonts.google.com/icons?selected=Material+Icons) \
+`Delightful, beautifully crafted symbols for common actions and items`
 ## 
 
 ###### Logos   
