@@ -184,7 +184,7 @@ Resources I like to use while designing, feel free to suggest other resources.
 [**0 to 255**](https://www.0to255.com/)  \
 `Find the perfect color variation`
 
-[**Khroma**](khroma.co)  \
+[**Khroma**](http://khroma.co)  \
 `Uses AI to learn which colors you like and creates palettes`
 
 [**Colorsinspo**](https://colorsinspo.com/)  \
