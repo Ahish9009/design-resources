@@ -120,6 +120,21 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**DrawKit**](https://www.drawkit.io/)    
 `Hand Drawn Illustrations`
+
+[**Blush**](https://blush.design/)    
+`Illustrations for everyone`
+
+[**Humaaans**](https://www.humaaans.com/)    
+`Mix-&-match illustrations of people with a design library`
+
+[**Control**](https://control.rocks/)    
+`108 customizable illustrations`
+
+[**Open Doodles**](https://opendoodles.com/)    
+`A Free Set of Sketchy Illustrations`
+
+[**Absurd Design**](https://absurd.design/)    
+`Absurd illustrations that make sense`
 ##
 
 ###### Website Design
@@ -157,6 +172,21 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**0 to 255**](https://www.0to255.com/)  \
 `Find the perfect color variation`
+
+[**Khroma**](https://http://khroma.co/)  \
+`Uses AI to learn which colors you like and creates palettes`
+
+[**Colorsinspo**](https://colorsinspo.com/)  \
+`All in one resource for finding colors`
+
+[**Eva**](https://colors.eva.design/)  \
+`Complimentary colour generator powered by deep learning`
+
+[**Pigment**](https://pigment.shapefactory.co/)  \
+`A unique way to generate fresh and vibrant colors`
+
+[**Brand Colors**](https://brandcolors.net/)  \
+`Biggest collection of official brand color codes `
 ##
 
 ## Photoshop
