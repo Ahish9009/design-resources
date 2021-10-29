@@ -13,7 +13,6 @@ Resources I like to use while designing, feel free to suggest other resources.
 ###### Illustrations
 [**Pixabay Illustrations**](https://pixabay.com/illustrations/)    
 `Not necessarily vectors, but amazing art`
-##
 
 [**unDraw**](https://undraw.co/)   
 `Can customise theme even before downloading. Also includes hand-drawn illustrations.`
