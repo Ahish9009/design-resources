@@ -120,6 +120,21 @@ Resources I like to use while designing, feel free to suggest other resources.
 
 [**DrawKit**](https://www.drawkit.io/)    
 `Hand Drawn Illustrations`
+
+[**Blush**](https://blush.design/)    
+`Illustrations for everyone`
+
+[**Humaaans**](https://www.humaaans.com/)    
+`Mix-&-match illustrations of people with a design library`
+
+[**Control**](https://control.rocks/)    
+`108 customizable illustrations`
+
+[**Open Doodles**](https://opendoodles.com/)    
+`A Free Set of Sketchy Illustrations`
+
+[**Absurd Design**](https://absurd.design/)    
+`Absurd illustrations that make sense`
 ##
 
 ###### Website Design
