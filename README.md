@@ -59,6 +59,9 @@ Resources I like to use while designing, feel free to suggest other resources.
 #
 
 ## Typography
+[**Cursive Generation Font Pairing Assistant**](https://cursive-generation.com/font-pairing-assistant)
+`Pair script headings with body fonts for lettering layouts`
+
 [**Fonts in Use**](https://fontsinuse.com)   
 `Fonts available to download, with examples of use`
 
